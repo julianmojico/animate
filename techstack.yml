@@ -1,0 +1,208 @@
+repo_name: julianmojico/animate
+report_id: ff3790e9d7f67b2859bbeea82530469b
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T09:17:51+00:00'
+requested_by: julianmojico
+provider: github
+branch: master
+detected_tools_count: 13
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/julianmojico/animate
+  detection_source: Repo Metadata
+- name: Hogan.js
+  description: A compiler for the Mustache templating language
+  website_url: http://twitter.github.io/hogan.js/
+  version: 1.0.5
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/julianmojico/animate/blob/master/animate/components/bootstrap/docs/build/package.json
+  detection_source: animate/components/bootstrap/docs/build/package.json
+  last_updated_by: Joshua Pekera
+  last_updated_on: 2013-09-16 06:52:22.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/julianmojico/animate
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/julianmojico/animate
+  detection_source: Repo Metadata
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 2.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/julianmojico/animate/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Guido Contreras Woda
+  last_updated_on: 2014-03-25 14:54:07.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/julianmojico/animate
+  detection_source: Repo Metadata
+- name: JSHint
+  description: A Static Code Analysis Tool for JavaScript
+  website_url: http://www.jshint.com/about/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/1945/mzh2bRes_400x400.png
+  detection_source_url: https://github.com/julianmojico/animate/blob/master/animate/components/bootstrap/package.json
+  detection_source: animate/components/bootstrap/package.json
+  last_updated_by: Joshua Pekera
+  last_updated_on: 2013-09-16 06:52:22.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/julianmojico/animate/blob/master/animate/components/bootstrap/.travis.yml
+  detection_source: animate/components/bootstrap/.travis.yml
+  last_updated_by: Joshua Pekera
+  last_updated_on: 2013-09-16 06:52:22.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/julianmojico/animate/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Joshua Pekera
+  last_updated_on: 2013-05-20 06:23:03.000000000 Z
+- name: bootstrap
+  description: The most popular front-end framework for developing responsive
+  package_url: http://bower.io/bootstrap
+  version: 2.3.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/julianmojico/animate/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Guido Contreras Woda
+  last_updated_on: 2014-03-25 14:54:07.000000000 Z
+- name: fastclick
+  description: Polyfill to remove click delays on browsers with touch UIs
+  package_url: http://bower.io/fastclick
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/julianmojico/animate/blob/master/bower.json
+  detection_source: bower.json
+  last_updated_by: Guido Contreras Woda
+  last_updated_on: 2014-03-25 14:59:56.000000000 Z
+- name: connect
+  description: High performance middleware framework
+  package_url: https://www.npmjs.com/connect
+  version: 2.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16202/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
+  detection_source_url: https://github.com/julianmojico/animate/blob/master/animate/components/bootstrap/package.json
+  detection_source: animate/components/bootstrap/package.json
+  last_updated_by: Joshua Pekera
+  last_updated_on: 2013-09-16 06:52:22.000000000 Z
+  vulnerabilities:
+  - name: Node Connect Reflected Cross-Site Scripting in Sencha Labs Connect middleware
+    cve_id: CVE-2013-7371
+    cve_url: https://github.com/advisories/GHSA-6w62-83g6-rfhj
+    detected_date: Aug 18
+    severity: moderate
+    first_patched: 2.8.2
+  - name: Cross-Site Scripting in connect
+    cve_id: CVE-2018-3717
+    cve_url: https://github.com/advisories/GHSA-rch9-xh7r-mqgw
+    detected_date: May 31
+    severity: moderate
+    first_patched: 2.14.0
+  - name: methodOverride Middleware Reflected Cross-Site Scripting in connect
+    cve_id: CVE-2013-7370
+    cve_url: https://github.com/advisories/GHSA-3fw8-66wf-pr7m
+    detected_date: Aug 22
+    severity: low
+    first_patched: 2.8.1
+- name: uglify-js
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/uglify-js
+  version: 1.3.4
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/julianmojico/animate/blob/master/animate/components/bootstrap/package.json
+  detection_source: animate/components/bootstrap/package.json
+  last_updated_by: Joshua Pekera
+  last_updated_on: 2013-09-16 06:52:22.000000000 Z
+  vulnerabilities:
+  - name: Incorrect Handling of Non-Boolean Comparisons During Minification in uglify-js
+    cve_id: CVE-2015-8857
+    cve_url: https://github.com/advisories/GHSA-34r7-q49f-h37c
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.4.24
+  - name: High severity vulnerability that affects uglify-js
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-g6f4-j6c2-w3p3
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.4.24
+  - name: Regular Expression Denial of Service in uglify-js
+    cve_id: CVE-2015-8858
+    cve_url: https://github.com/advisories/GHSA-c9f4-xj24-8jqx
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.6.0
